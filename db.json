@@ -1,0 +1,7 @@
+{
+  "zprava":"ok",
+  "polozky":[
+    {"name":"jmeno1","cislo":1,"poznamka":"poznamka 1 je jedna"},
+    {"name":"jmeno2","cislo":22,"poznamka":"poznamka 2 je dva"}
+  ]
+}
